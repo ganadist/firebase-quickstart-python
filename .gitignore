@@ -1,3 +1,7 @@
 auth/lib
 auth/path
 *.pyc
+bin
+lib
+pyvenv.cfg
+service-account.json
